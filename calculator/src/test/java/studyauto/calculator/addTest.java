@@ -11,7 +11,7 @@ public class addTest {
 		return new Object[][] {
 			{2,3,5},
 			{5,6,11},
-			{2,6,8},
+			{2,6,9},
 		};
 	}
     
